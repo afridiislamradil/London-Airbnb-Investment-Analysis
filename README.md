@@ -66,8 +66,6 @@ This project followed the **Google Data Analytics Process**:
 
 ## 📸 Dashboard Preview
 
-> *(Replace the image path below after moving your dashboard screenshot into the `images` folder.)*
-
 ```markdown
 ![Dashboard](images/dashboard.png)
 ```
