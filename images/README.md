@@ -1,3 +1,3 @@
 # Images
 
-This folder contains dashboard screenshots and other project visuals.
+![Dashboard](images/dashboard.png)
