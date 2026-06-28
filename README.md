@@ -69,3 +69,87 @@ This project followed the **Google Data Analytics Process**:
 ```markdown
 ![Dashboard](images/dashboard.png)
 ```
+---
+
+## 📁 Repository Structure
+
+```
+London-Airbnb-Investment-Analysis/
+│
+├── dashboard/          # Tableau workbook
+├── data/               # Processed datasets
+├── images/             # Dashboard screenshots
+├── report/             # Final project report (PDF)
+├── sql/                # SQL scripts
+└── README.md
+```
+
+---
+
+## 💡 Business Recommendations
+
+Based on the analysis:
+
+- Prioritize investment in **Tower Hamlets**, **Lambeth**, and **Kensington & Chelsea**.
+- Focus on **Entire Home/Apartment** listings due to their strong demand and pricing.
+- Evaluate **market competition** before investing in high-demand areas.
+- Use **multiple business metrics** instead of relying on demand or price alone.
+
+---
+
+## 🚀 Skills Demonstrated
+
+Throughout this project, I applied the following skills:
+
+- Data Cleaning
+- Data Validation
+- SQL
+- Google BigQuery
+- Aggregate Functions
+- Common Table Expressions (CTEs)
+- Window Functions
+- Data Analysis
+- Business Analysis
+- Weighted Scoring Models
+- Tableau Dashboard Development
+- Data Storytelling
+- GitHub Documentation
+
+---
+
+## 📚 What I Learned
+
+This project strengthened my ability to:
+
+- Design end-to-end data analytics workflows.
+- Write efficient SQL queries for real-world business problems.
+- Transform raw data into actionable business insights.
+- Build executive-friendly dashboards.
+- Communicate analytical findings through clear business recommendations.
+
+---
+
+## 👤 Author
+
+**Afridi Islam**
+
+Aspiring Data Analyst
+
+- GitHub: https://github.com/afridiislamradil
+
+---
+
+## ⭐ Future Improvements
+
+Future versions of this project may include:
+
+- ROI calculations
+- Seasonal demand analysis
+- Interactive maps
+- Predictive demand forecasting
+- Guest review sentiment analysis
+- Automated data pipeline
+
+---
+
+**Thank you for visiting this project!**
