@@ -66,9 +66,8 @@ This project followed the **Google Data Analytics Process**:
 
 ## 📸 Dashboard Preview
 
-```markdown
 ![Dashboard](images/dashboard.png)
-```
+
 ---
 
 ## 📁 Repository Structure
