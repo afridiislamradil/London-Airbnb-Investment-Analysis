@@ -134,7 +134,7 @@ This project strengthened my ability to:
 
 Aspiring Data Analyst
 
-- GitHub: https://github.com/afridiislamradil
+- GitHub: https://github.com/afridiradil
 
 ---
 
